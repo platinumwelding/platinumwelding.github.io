@@ -68,7 +68,11 @@ h6 {
 .bg-darkest-gray {
     background-color: #222;
 }
+/* Map */
 
+.map {
+    height: 1000px;
+}
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;

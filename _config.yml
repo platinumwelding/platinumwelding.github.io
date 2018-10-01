@@ -29,15 +29,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+email: platinumweldinginc@gmail.com
+facebook_username: platinumweldinginc
+twitter_username: platinumweldinginc
+github_username: platinumweldinginc
+address: 20 Melanie Dr Unit 6 ,Brampton, ON L6T4K8 Canada
+  # Feel free to add more lines here 
+telephone: +1 (647) 786 2277
+copyright:
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# API settings
+google_api_key: AIzaSyBsydjYEt52DkXuQd0-zXtUnmy2O1XHdJc
