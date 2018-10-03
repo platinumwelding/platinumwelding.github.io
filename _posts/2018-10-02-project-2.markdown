@@ -1,0 +1,15 @@
+---
+title: Deer Bumper Model D102
+subtitle: Bumper Design
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: modelD102.jpg
+thumbnail: modelD102-thumbnail.jpg
+alt: image-alt
+project-date: October 2018
+client: Trucking company
+category: Deer Bumper
+description:  Heavy duty material
+
+---
